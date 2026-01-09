@@ -1,0 +1,7 @@
+There are rumors on the internets.
+1 2 4 8 16 32
+0 q 832
+7 0
+PRSTWM
+4 5 2 1 3 6
+
